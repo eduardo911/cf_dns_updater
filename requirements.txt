@@ -1,1 +1,2 @@
-# An empty block indicating no additional dependencies are listed here
+# Additional requirements to run the dns_updater
+requests
