@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 ---
 ### 3️⃣ Set Up Environment Variables
-Create a .env file to store your Cloudflare API keys securely:
+Create a `.env` file to store your Cloudflare API keys securely:
 ```bash
 sudo nano .env
 ```
@@ -44,7 +44,7 @@ python dns_updater.py
 ```
 ---
 ### 🐟 Logs
-Logs are stored in dns_updater.log, which you can check using:
+Logs are stored in `dns_updater.log`, which you can check using:
 ```bash
 cat dns_updater.log
 ```
